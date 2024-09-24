@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&color=6994CDEE&multiline=true&duration=1&repeat=false&width=500&size=45&height=100&lines=Welcome+to+HYEIN's+GitHub!+\nI'm+a+developer+who+wants+to+improve+people's+lives+with+better+technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&duration=1&repeat=false&color=6994CDEE&center=false&vCenter=false&multiline=true&width=1000&height=60&lines=Welcome+to+HYEIN's+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1&repeat=false&color=6994CDEE&center=false&vCenter=false&multiline=true&width=1000&height=60&lines=I'm+a+developer+who+wants+to+improve+people's+lives+with+better+technology)](https://git.io/typing-svg)
 
 
 <h3>✨Skill</h3>
